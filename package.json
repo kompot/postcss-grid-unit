@@ -1,0 +1,21 @@
+{
+  "name": "postcss-grid-unit",
+  "version": "0.0.1",
+  "description": "A PostCSS plugin to create custom measurement units to ease grid enforcement.",
+  "keywords": [
+    "postcss",
+    "css",
+    "postcss-plugin",
+    "grid",
+    "unit"
+  ],
+  "author": "Anton Fedchenko <kompotik@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kompot/postcss-grid-unit.git"
+  },
+  "dependencies": {
+    "postcss": "^5.0.0"
+  }
+}
